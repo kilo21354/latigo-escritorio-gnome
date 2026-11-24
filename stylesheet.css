@@ -1,0 +1,14 @@
+.latigo-panel-content {
+    spacing: 6px;
+}
+
+.latigo-panel-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+    background-color: rgba(192, 197, 206, 0.55);
+}
+
+.latigo-panel-active .latigo-panel-dot {
+    background-color: #ffbc69;
+}

@@ -1,0 +1,9 @@
+{
+  "uuid": "latigo-escritorio@codex.local",
+  "name": "Látigo de escritorio",
+  "description": "Activa el látigo desde la barra superior o con Ctrl+Alt+W. El látigo sigue al puntero y se desenrolla con sonido al hacer clic.",
+  "url": "https://github.com/kilo21354/latigo-escritorio-gnome",
+  "settings-schema": "org.gnome.shell.extensions.latigo-escritorio",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "version": 5
+}

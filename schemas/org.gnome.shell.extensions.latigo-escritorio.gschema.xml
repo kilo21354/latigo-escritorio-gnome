@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.latigo-escritorio" path="/org/gnome/shell/extensions/latigo-escritorio/">
+    <key name="toggle-whip" type="as">
+      <default>['&lt;Control&gt;&lt;Alt&gt;w']</default>
+      <summary>Atajo para activar o pausar el látigo</summary>
+    </key>
+  </schema>
+</schemalist>
